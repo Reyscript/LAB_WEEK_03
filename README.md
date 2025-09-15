@@ -12,6 +12,7 @@ APK File:
 https://drive.google.com/drive/u/5/folders/1jzd4WhZ6nmY-3Pfh92CvCCvb78ylDG2T
 
 Commit History
+
 Commit No. 1 - add fragment lifecycle logging
 
 Commit No. 2 - add coffee list & detail fragment
